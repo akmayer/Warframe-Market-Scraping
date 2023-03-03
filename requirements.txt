@@ -7,3 +7,6 @@ glob
 pandas
 IPython
 ipywidgets
+numpy
+dateutil
+voila
