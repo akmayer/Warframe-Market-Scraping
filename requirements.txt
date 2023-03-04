@@ -4,3 +4,7 @@ IPython
 ipywidgets
 numpy
 voila
+plotly
+matplotlib
+plotly-resampler
+lttbc
